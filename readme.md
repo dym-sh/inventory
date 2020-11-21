@@ -23,13 +23,12 @@ workspace is a zoomable/expandable items
 
 with a timetravel/stacking full-screen wm-paradigm
 
-pressing the `Meta` key (`Wnd`/`Cmd`) for 2[^2] seconds  brings up the control menu:
+pressing the `Meta` key (`Wnd`/`Cmd`) twice,
+or for 2 seconds (customizable) brings up the control menu:
 
 - items previews
 - access-keys for the above
 - window
-
-[^2]: delay is customizable
 
 
 ## keyboard shortcuts
