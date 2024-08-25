@@ -27,6 +27,17 @@
       Wwwwwwwww<br>
     </x-post>
 
+    <x-comment>
+      YyyyyyyyYyy yyYyyyYYy YyYY
+    </x-comment>
+
+    <x-comment>
+      YyyyyyyyYyy yyYyyyYYy YyYY
+    </x-comment>
+
+    <x-comment>
+      YyyyyyyyYyy yyYyyyYYy YyYY
+    </x-comment>
 
   </main>
 
