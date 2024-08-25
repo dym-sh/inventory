@@ -10,14 +10,24 @@
 <body class="px-5 py-5 min-h-screen flex">
 
   <nav class="flex flex-col min-h-full space-y-4">
-    <x-button href="/">/</x-button>
-    <x-button href="/archive" title="archive">A</x-button>
+    <x-link href="/" title="Archive" icon="home" />
+    <x-link href="/archive" title="Archive" icon="calendar" />
     <div class="grow"></div>
-    <x-button href="/settings" title="settings">S</x-button>
+    <x-link href="/settings" title="Settings" icon="settings" />
   </nav>
 
-  <main class="ml-5">
-    xxx
+  <main class="ml-5 flex flex-col space-y-4">
+    <form action="/search">
+      <x-input type="search" name="s"/>
+    </form>
+
+    <x-post>
+      Wwwwwwwwwwwwwwwww wwwwwwwwwww wwwwwwww<br>
+      Wwwwwwwwwww wwwwwwwwwwwwwwwwwwww<br>
+      Wwwwwwwww<br>
+    </x-post>
+
+
   </main>
 
 
