@@ -12,6 +12,8 @@
   <nav class="flex flex-col min-h-full space-y-4">
     <x-link href="/" title="Archive" icon="home" />
     <x-link href="/archive" title="Archive" icon="calendar" />
+    <x-link href="/category" title="Categories" icon="category" />
+    <x-link href="/tags" title="Tags" icon="tags" />
     <div class="grow"></div>
     <x-link href="/settings" title="Settings" icon="settings" />
   </nav>

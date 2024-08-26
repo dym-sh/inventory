@@ -11,4 +11,8 @@
     <i class="fa-solid fa-plus"></i>
 @elseif( 'search' == $icon )
     <i class="fa-solid fa-magnifying-glass"></i>
+@elseif( 'tag' == $icon )
+    <i class="fa-solid fa-hashtag"></i>
+@elseif( 'category' == $icon )
+    <i class="fa-solid fa-layer-group"></i>
 @endif
